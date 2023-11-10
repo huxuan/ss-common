@@ -1,3 +1,4 @@
+_answers_file: ss-common.yml
 _subdirectory: template
 project_name:
   default: Serious Scaffold Common
